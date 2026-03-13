@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{87B67AE6-4CB7-06DC-AD29-C6934E169B0A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DemoX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
